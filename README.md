@@ -13,13 +13,14 @@ Aqui estão os links para os repositórios relacionados que você pode precisar 
 1. [Repositório ESP32](https://github.com/Leo-Tanaka/esp32): Este repositório contém o firmware necessário para configurar o ESP32 e conectá-lo à aplicação.
 2. [Repositório Node.js](https://github.com/Leo-Tanaka/esp32-server): Scripts e configurações para rodar e gerenciar o banco de dados Node.js.
 3. [Vídeo teste do ESP32 + WI-FI](https://www.youtube.com/watch?v=SjN68S9C7Mc): Teste  do ESP32 + WI-FI de Triangulação.
-			a) Definição da Ferramenta de Teste. Nessa seção o grupo deve descrever o que ela faz e como faz;
 
-			b) Evidências de Testes. Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados;
+		a) Definição da Ferramenta de Teste. Nessa seção o grupo deve descrever o que ela faz e como faz;
 
-			c) Discussão dos Resultados. Nessa seção o grupo deve descrecer se o teste foi satisfatório ou não;
+		b) Evidências de Testes. Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados;
 
-			d) Soluções Futuras. Nessa seção, o que grupo faria para melhorar seus testes (não precisa implementar essas propostas de melhorias).
+		c) Discussão dos Resultados. Nessa seção o grupo deve descrecer se o teste foi satisfatório ou não;
+
+		d) Soluções Futuras. Nessa seção, o que grupo faria para melhorar seus testes (não precisa implementar essas propostas de melhorias).
 
 ## Desenvolvimento
 
