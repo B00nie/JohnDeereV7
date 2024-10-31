@@ -12,7 +12,7 @@ Aqui estão os links para os repositórios relacionados que você pode precisar 
 
 1. [Repositório ESP32](https://github.com/Leo-Tanaka/esp32): Este repositório contém o firmware necessário para configurar o ESP32 e conectá-lo à aplicação.
 2. [Repositório Node.js](https://github.com/Leo-Tanaka/esp32-server): Scripts e configurações para rodar e gerenciar o banco de dados Node.js.
-3. [Vídeo do funcionamento do site](https://youtu.be/9FUN8H0Ebfs): Demonstração em vídeo do site em funcionamento.
+3. [Vídeo teste do ESP32 + WI-FI Triangulação](https://img.youtube.com/vi/SjN68S9C7Mc/maxresdefault.jpg)](https://www.youtube.com/watch?v=SjN68S9C7Mc)
 
 ## Desenvolvimento
 
